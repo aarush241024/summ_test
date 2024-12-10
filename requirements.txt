@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+huggingface_hub
+accelerate
+langchain
+fpdf
+reportlab
+PyPDF2
+python-docx
+python-dotenv
+langchain_community
+pillow
